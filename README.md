@@ -16,3 +16,12 @@ Documenting my journey through Machine Learning. This repository features step-b
 
 *[2026-Jan]*
 
+
+
+
+
+---
+
+### **References**
+* **Main Textbook**: This project follows the examples and methodology from **"데싸노트의 실전에서 통하는 머신러닝"** (Machine Learning for Real-world Practices) by Sihyeon Kwon, published by Golden Rabbit (2022).
+* **Official Repository**: [Golden Rabbit Must-Have ML-10](https://github.com/musthave-ML10)
